@@ -69,4 +69,9 @@ A real-time, gesture-based wireless robotic car system that eliminates the need 
 - 🔋 Operates wirelessly with a 9V battery without lag or interference
 - 🧰 Fully assembled and tested manually with soldered components
 
+## 🚗 Car 
+![](car.png)  
+
+## 🤚 Gesture Glove
+![](gestureglove.png)
 
